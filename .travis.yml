@@ -7,4 +7,5 @@ node_js:
 cache: npm
 
 before_install:
+- npm install
 - npm start
