@@ -5,7 +5,3 @@ node_js:
 - 'lts/*'
 
 cache: npm
-
-before_install:
-- npm install
-- npm start
